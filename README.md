@@ -2,7 +2,7 @@
 Use this Flask App Template as a starter kit for building a Flask Web App
 
 # Summary
-This contains the basic structure for the app, a main flask server, hmtl files, and css.
+This contains the basic structure for the app. A main flask server, hmtl files, and css.
 
 # Setup
 Make sure you have Python3 installed, then run pip3 install requirements.txt
