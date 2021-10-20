@@ -1,5 +1,5 @@
 # server.py
-# A simple Web App for sending payments on the ethereum network
+# A simple Web App
 
 # Required imports
 from flask import Flask, request, jsonify, send_file, render_template
